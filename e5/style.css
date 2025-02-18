@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: black;
+	color: chartreuse;
+}
+
+article {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+  font-family: "Audiowide", serif;
+  font-weight: 400;
+  font-style: normal;
+	font-size: 2.5em;
+	color: chartreuse;
+
+
+}
+
+p { 
+font-size: 1.2em;
+}
+
+#toc{
+	background-color: chartreuse;
+	padding: 3% 5%;
+	margin-bottom: 40px;
+	color: black;
+	font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+li{
+	list-style: none;
+}
+
+dt {
+	
+  font-family: "Orbitron", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+	font-size: 1.875em;
+}
+
+dd {
+	margin-left: 0;
+	padding-bottom: 20px;
+  font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.author{
+	font-size: 1em;
+	color: greenyellow;
+	font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.date {
+	color:lawngreen;
+		font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+p {
+	font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
