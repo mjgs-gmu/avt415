@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+body { 
+	background-color: #83CE7E;
+	font-size: 100%;
+	line-height: 1.6em;	
+}
+
+h1 {
+  font-family: "Barriecito", serif;
+  font-weight: 400;
+  font-style: normal;
+	color: #3A0F10;
+	font-size: 2.5em;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+dt {
+	
+  font-family: "Barrio", serif;
+  font-weight: 400;
+  font-style: normal;
+	color: #411F1F;
+	font-size: 1.4em;
+}
+
+dd {
+	margin-left: 0;
+	padding-bottom: 20px;
+	  font-family: "Atma", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.author{
+	font-size: 1em;
+	color: #6F4445;
+	font-family: "Atma", serif;
+  font-weight: 300;
+  font-style: normal;	
+}
